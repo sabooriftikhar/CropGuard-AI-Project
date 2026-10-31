@@ -1,0 +1,13 @@
+{
+  "validation_loss": 0.1718853861093521,
+  "validation_accuracy": 0.9431481957435608,
+  "macro_precision": 0.9482120711290861,
+  "macro_recall": 0.9428682653934878,
+  "macro_f1": 0.9428406687167189,
+  "num_classes": 38,
+  "image_size": [
+    224,
+    224
+  ],
+  "model": "EfficientNetB0"
+}
