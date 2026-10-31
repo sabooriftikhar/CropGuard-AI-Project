@@ -15,9 +15,9 @@ IMAGE_SIZE = (224, 224)
 TOP_K = 3
 
 # Add your links here later.
-PROJECT_REPORT_URL = ""   # Word report (.docx)
-PRESENTATION_URL = ""     # PowerPoint (.pptx)
-GITHUB_REPO_URL = ""      # GitHub repository
+PROJECT_REPORT_URL = "CropGuard_AI_Final_Report.docx"   # Word report (.docx)
+PRESENTATION_URL = "CropGuard_AI_Final_Presentation.pptx"     # PowerPoint (.pptx)
+GITHUB_REPO_URL = "https://github.com/sabooriftikhar/CropGuard-AI-Project"      # GitHub repository
 
 
 st.set_page_config(
